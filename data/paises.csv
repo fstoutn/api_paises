@@ -1,0 +1,198 @@
+pais,poblacion,superficie,continente
+Argentina,45851378,2736690,America  
+Bolivia,12637909,1083300,America  
+Brasil,213400000,8358140,America  
+Chile,19859921,743532,America  
+Colombia,53425635,1109500,America  
+Ecuador,18000000,256370,America  
+Guyana,830000,214969,America
+Paraguay,7350000,406752,America 
+Peru,34600000,1285216,America
+Surinam,640000,163820,America
+Uruguay,3500000,176215,America
+Venezuela,28720000,916445,America
+Guayana Francesa,292354,83846,America
+Islas Malvinas,3469,12170,America
+Guatemala,18687881,107160,America  
+Belice,417072,22966,America  
+El Salvador,6366000,21040,America  
+Honduras,11005850,111890,America  
+Nicaragua,70000000,130373,America  
+Costa Rica,5159353,51060,America  
+Panama,4516000,75420,America
+Estados Unidos,347275807,9147420,America
+Canada,40126723,9093510,America
+Mexico,131900000,1943950,America
+Guatemala,18687881,108889,America
+Haiti,11900000,27750,America
+Republica Dominicana,11500000,48670,America
+Cuba,11300000,109884,America
+Honduras,11000000,112492,America
+Nicaragua,7000000,130373,America
+El Salvador,6300000,21041,America
+Costa Rica,5191000,51100,America  
+Panama,4300000,75420,America  
+Jamaica,2753000,10991,America  
+Trinidad y Tobago,1368000,5128,America  
+Bahamas,409000,13880,America  
+Belice,465000,22966,America  
+Antigua y Barbuda,103600,443,America  
+Barbados,263700,430,America  
+Dominica,63200,751,America  
+Saint Kitts y Nevis,48400,261,America  
+Saint Lucia,186500,616,America  
+Saint Vincent y las Granadinas,112000,389,America  
+Bermuda,64555,50,America
+Groenlandia,55745,410450,America
+Saint Pierre y Miquelon,5574,230,America
+Angola,35379000,1246700,Africa
+Argelia,45400000,2381741,Africa
+Benin,14503000,112622,Africa
+Botsuana,2514000,581730,Africa
+Burkina Faso,26840000,272967,Africa
+Burundi,13491000,27834,Africa
+Cabo Verde,525000,4033,Africa
+Camerun,29784000,475442,Africa
+Chad,19895000,1284000,Africa
+Congo,6142000,342000,Africa
+Costa de Marfil,29342000,322463,Africa
+Egipto,107838000,995450,Africa
+Eritrea,4785000,117600,Africa
+Etiopia,111702000,1104300,Africa
+Esuatini,1191000,17364,Africa
+Gabón,2431000,267668,Africa
+Gambia,2727000,11295,Africa
+Ghana,34121000,238533,Africa
+Guinea,15865000,245857,Africa
+Guinea-Bisau,2073000,36125,Africa
+Guinea Ecuatorial,1711000,28051,Africa
+Kenia,58246000,580367,Africa
+Lesoto,2125000,30355,Africa
+Libia,7358000,1759541,Africa
+Liberia,6053000,111369,Africa
+Malawi,22897000,118484,Africa
+Mali,25859000,1240192,Africa
+Madagascar,31456000,587041,Africa
+Mauritania,5159000,1030700,Africa
+Marruecos,38312000,710850,Africa
+Mozambique,34096000,801590,Africa
+Namibia,2781000,825615,Africa
+Niger,28849000,1267000,Africa
+Nigeria,233560000,910770,Africa
+Republica Centroafricana,5893000,622984,Africa
+Republica Democratica del Congo,109076000,2267050,Africa
+Ruanda,14920000,26338,Africa
+Santo Tome y Principe,245000,964,Africa
+Senegal,19928000,196722,Africa
+Sierra Leona,9132000,71740,Africa
+Somalia,18143000,637657,Africa
+Sudafrica,63430000,1213090,Africa
+Sudan,50582000,1861484,Africa
+Sudan del Sur,12278000,619745,Africa
+Seychelles,106000,455,Africa
+Tanzania,67529000,885800,Africa
+Togo,9091000,56785,Africa
+Tunez,12508000,163610,Africa
+Uganda,51540000,241038,Africa
+Yibuti,1042000,23200,Africa
+Zambia,21324000,752612,Africa
+Zimbabue,16897000,390757,Africa
+Rusia,143997393,17098242,Europa
+Alemania,84000000,357022,Europa
+Reino Unido,67000000,243610,Europa
+Francia,68000000,551695,Europa
+Italia,59000000,301340,Europa
+Espana,48000000,505990,Europa
+Polonia,38000000,312696,Europa
+Rumania,19000000,238397,Europa
+Paises Bajos,18000000,41543,Europa
+Belgica,11700000,30528,Europa
+Republica Checa,10700000,78867,Europa
+Suecia,10600000,450295,Europa
+Portugal,10400000,92090,Europa
+Grecia,10000000,131957,Europa
+Hungria,9600000,93030,Europa
+Austria,9100000,83879,Europa
+Bielorrusia,9000000,207600,Europa
+Suiza,8900000,41284,Europa
+Serbia,6800000,88361,Europa
+Bulgaria,6700000,110879,Europa
+Dinamarca,5900000,43094,Europa
+Finlandia,5500000,338455,Europa
+Eslovaquia,5400000,49035,Europa
+Noruega,5400000,385207,Europa
+Irlanda,5200000,70273,Europa
+Croacia,4000000,56594,Europa
+Bosnia y Herzegovina,3200000,51197,Europa
+Albania,2800000,28748,Europa
+Lituania,2700000,65300,Europa
+Moldavia,2600000,33846,Europa
+Eslovenia,2100000,20273,Europa
+Macedonia del Norte,2100000,25713,Europa
+Letonia,1900000,64589,Europa
+Estonia,1300000,45227,Europa
+Luxemburgo,660000,2586,Europa
+Malta,520000,316,Europa
+Islandia,370000,103000,Europa
+Andorra,80000,468,Europa
+Monaco,39000,203,Europa
+Liechtenstein,39000,160,Europa
+San Marino,34000,61,Europa
+Armenia,2800000,29743,Europa
+Georgia,3700000,69700,Europa
+Azerbaiyan,10300000,86600,Europa
+Afganistan,42594582,652230,Asia
+Arabia Saudita,35541000,2149690,Asia
+Bangladesh,170000000,147570,Asia
+Barhein,1701583,765,Asia
+Bhutan,754394,38394,Asia
+Brunei,437483,5765,Asia
+Camboya,17000000,181035,Asia
+China,1444216107,9596961,Asia
+Chipre,1207359,9251,Asia
+Corea del Norte,25778816,120538,Asia
+Corea del Sur,51841712,100210,Asia
+Emiratos Arabes Unidos,9890000,83600,Asia
+Filipinas,113900000,300000,Asia
+India,1407563847,3287263,Asia
+Indonesia,276361783,1904569,Asia
+Iraq,45604103,438317,Asia
+Israel,9500000,20770,Asia
+Japon,125710000,377975,Asia
+Jordania,10203140,89342,Asia
+Kazajistan,19233456,2724900,Asia
+Kuwait,4418042,17818,Asia
+Laos,7275556,236800,Asia
+Líbano,6825445,10452,Asia
+Malasia,33100000,330803,Asia
+Maldivas,540542,298,Asia
+Mongolia,3225167,1564116,Asia
+Myanmar,54045420,676578,Asia
+Nepal,29136808,147516,Asia
+Oman,5007000,309500,Asia
+Pakistan,240485658,881913,Asia
+Qatar,2891039,11586,Asia
+Singapur,5638700,719,Asia
+Sri Lanka,22286000,65610,Asia
+Siria,18000000,185180,Asia
+Tailandia,70300000,513120,Asia
+Tayikistan,9751000,143100,Asia
+Timor Oriental,1318442,14874,Asia
+Turkmenistan,6200000,488100,Asia
+Uzbekistan,35220000,447400,Asia
+Vietnam,98168829,331210,Asia
+Yemen,29825968,527968,Asia
+Australia,25687041,7692024,Oceania
+Fiyi,896444,18272,Oceania
+Islas Marshall,59190,181,Oceania
+Islas Salomon,70000,28450,Oceania
+Kiribati,119446,811,Oceania
+Micronesia,115023,702,Oceania
+Nauru,10834,21,Oceania
+Nueva Zelanda,5084300,268838,Oceania
+Palaos,18000,459,Oceania
+Papua Nueva Guinea,8947027,462840,Oceania
+Samoa,198410,2842,Oceania
+Tonga,105695,747,Oceania
+Tuvalu,11792,26,Oceania
+Vanuatu,307150,12189,Oceania
